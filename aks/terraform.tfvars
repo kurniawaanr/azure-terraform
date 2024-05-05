@@ -1,0 +1,2 @@
+clientId = "appId"
+clientSecret = "Password"
